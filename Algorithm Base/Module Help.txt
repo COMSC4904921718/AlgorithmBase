@@ -1,0 +1,45 @@
+
+********************IMPORTANT*********************
+
+Click "Format" in the menu bar above and then "Word Wrap" to view this text document and glossaries properly.
+
+**************************************************
+
+
+Help and Installation Instructions for "Algorithms In Motion" version 1.0
+by the development team: Kevin Schwartz, Matt Seferian and Zach Sayed
+
+
+**************************************************
+
+Table of Contents
+
+1. Display
+2. Available Buttons
+3. Software Requirements
+4. Changelog
+
+**************************************************
+
+1. Display
+
+	On the left side of the screen are visual representations of the algorithm. These visuals show what the algorithm is actually doing, in terms of data structures and the actual data. On the right side of the screen is a pseudocode representation of the visual to the left. This code represents how a programmer would implement what is going on, but is not syntactically correct and therefore could not function as runnable code. This code is highlight based on the section that is actively running based on the visual.
+
+2. Available Buttons
+
+	From left to right, the first button is the Help button, which opens this file. The next button is the Backwards button, this goes back to the slide that was previously being shown. If the slideshow is at the beginning, it shows the last slide in the set. The next button is the Autoplay button, that switches between automatically changing the slides and not. This is represented by the icon changing between the pause and play symbol based on the current mode. Next is the Forward button, that goes to the next slide. If the current slide is the last in the set, it goes to the beginning. The last button is the Glossary button, that opens up a text file with a list of terms and definitions that relate to the pseudocode.
+
+
+**************************************************
+
+3. Software Requirements: 
+
+Java 8 or Higher: https://www.java.com/en/download/win10.jsp
+
+**************************************************
+
+4. Changelog:
+
+	Version 1.0 [5-8-2018] - Initial Release
+
+**************************************************
